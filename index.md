@@ -2,5 +2,5 @@
 layout: default
 ---
 
-[Publications](./publications.html). on halldorophones and related topics
+[Publications](./publications.md). on halldorophones and related topics
 
