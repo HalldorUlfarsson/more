@@ -6,9 +6,7 @@ layout: default
 
 By Halldór Úlfarsson:
 
-2018 NIME paper on the halldorophone
-
-2018 NIME paper on the halldorophone
+[2018 NIME paper on the halldorophone](./assets/papers/faab.pdf)
 
 2023 NIME paper on interface developments
 
