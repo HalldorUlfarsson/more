@@ -6,11 +6,11 @@ layout: default
 
 Halldór Úlfarsson (1977) an icelandic artist and designer, educated in Finland and the UK. He lives in Iceland but has a workshop in Athens Greece where development on the halldorophone has taken place in recent years.
 
-Brief CV with the most relevant highlights:
+Most relevant bio highlights:
 
 2022 - Working for the Intelligent Instruments Lab (IIL). An ERC funded project led by Thor Magnusson on the experience of making music with AI endowed instruments.
 
-2021 - Has been developing the halldorophone supported by the Icelandic Technology Development Fund
+2021 - Developing the halldorophone supported by the Icelandic Technology Development Fund
 
 2017 - Began a PhD at the University of Sussex, Department of Music under the supervision of Thor Magnusson and Chris Kiefer (as of yet unfinished).
 
