@@ -13,9 +13,3 @@ Media ready [images](./images.md) of halldorophones
 Media mentions and interviews
 
 2024 [bio](./bio.md) for Halldór Úlfarsson.
-
-X
-X
-X
-
-{% include youtube.html id="uo4Jq-_tysc?si=XpCMvHLTyNd4HygZ" %}
