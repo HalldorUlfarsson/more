@@ -8,6 +8,6 @@ Peer reviewed [papers](./publications.md) on halldorophones and related topics.
 
 A loose list of [halldorophones](./instruments.md), users and owners.
 
-Media ready images of halldorophones
+Media ready [images](./images.md) of halldorophones
 
 Media mentions and interviews
