@@ -14,3 +14,10 @@ layout: default
 
 2022 [Photos of Halldór Úlfarsson](https://photos.app.goo.gl/N6otv2LPmjWAUtMJ8) in his Athens studio by Myrto Grigoriou.
 
+Here is a casually maintained playlist on youtube with works I am aware of containing halldorophone (including some I have taken part in producing):
+
+1
+{% include youtube.html id="rDbIMd_5R5k?si=5DdQBCzKPs8COqXK" %}
+2
+{% include youtube.html id="uo4Jq-_tysc?si=XpCMvHLTyNd4HygZ" %}
+3
