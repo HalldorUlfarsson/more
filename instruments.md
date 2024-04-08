@@ -14,10 +14,25 @@ The Sisters, two instruments made in XXXX
 One instrument was bought bye Prof. Thor Magnusson for the Emute lab at The University of Sussex
 Second instrument was used extensively by composer Constantine Skourlis (GR) and played by Cellist Konstantinos Chinis (GR). The instrument was damaged in transport to the US, but somewhat restored by composer Davíð Brynjar Franzson (IS) who has it in his care in Los angeles.
 
-ACE - Scott McLaughlin. With a soundbox built by luthier Konstantin Tsopelas (GR).
+ACE - Scott McLaughlin. With a soundbox built by luthier Konstantin Tsopelas (GR), who has built every soundbox since.
 
 LHÍ - An instrument commissioned by the Icelandic Design fund and donated to the Music Department of the Icelandic University of the Arts. Extensively used by cellist Júlía Mogensen (IS) and multi-instrumentalist Eydís Kvaran (IS).
 
+Instrument commissioned by Composer Adam Schoenberg for his concerto, Automata for halldorophone and cello with soloist, cellist Yves Dhar.
+
+Konstantinos Chinis.
+
+Three instruments built as part of a development push sponsored by The Icelandic Technology Development Fund (Tækniþróunarsjóður):
+
+EMS
+
+Athens
+
+CalArts
+
+Luis Resto
+
+Killick Hinds
 
 
 
