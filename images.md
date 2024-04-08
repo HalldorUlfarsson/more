@@ -12,4 +12,4 @@ layout: default
 
 2014 [halldorophone](https://photos.app.goo.gl/ZpbYMDo1a8yz5ZMy9) belonging to Hildur Guðnadóttir.
 
-2022 in his Athens studio [Photos of Halldór Úlfarsson](https://photos.app.goo.gl/N6otv2LPmjWAUtMJ8) by Myrto Grigoriou
+2022 [Photos of Halldór Úlfarsson](https://photos.app.goo.gl/N6otv2LPmjWAUtMJ8) in his Athens studio by Myrto Grigoriou.
