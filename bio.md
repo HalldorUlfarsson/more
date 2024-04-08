@@ -4,9 +4,9 @@ layout: default
 
 ## Tight bio for Halldór Úlfarsson
 
-Halldór Úlfarsson (1977) an icelandic artist and designer, educated in Finland and the UK. He lives in Iceland but has a workshop in Athens Greece where development on the halldorophone has taken place in recent years.
+Halldór Úlfarsson (1977, IS) an icelandic artist and designer, educated in Finland and the UK. He lives in Iceland but has a workshop in Athens Greece where development on the halldorophone has taken place in recent years.
 
-Most relevant bio highlights:
+Relevant career highlights:
 
 2022 - Working for the Intelligent Instruments Lab [(IIL)](https://iil.is). An ERC funded project led by Thor Magnusson on the experience of making music with AI endowed instruments.
 
