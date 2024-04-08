@@ -15,3 +15,4 @@ Media mentions and interviews
 2024 [bio](./bio.md) for Halldór Úlfarsson.
 
 X
+{% include youtubePlayer.html id=page.UlyDvrnC3wc?si=vrqd4bA-wCUVjmve %}
