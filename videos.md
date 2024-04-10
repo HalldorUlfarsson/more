@@ -9,7 +9,7 @@ Collaboration with composer Hlynur Vilmarsson. We built a scaffold for actuators
 
 {% include youtube.html id="rDbIMd_5R5k?si=5DdQBCzKPs8COqXK" %}   
 
-   
+-
 
 Collaboration with composer Hildur Guðnadóttir. Hildur performed a structured improvisations in two venues in and close to Copenhagen which we filmed and edited together to compose the work. Curated by Stine Hebert for the FFKD residency in Copenhagen and supported by the Danish Arts Council.
 
