@@ -12,9 +12,9 @@ By Halldór Úlfarsson:
 
 Co-Authored:
 
-[2023 NIME paper on interface developments](./assets/papers/nime2023.pdf) with Thor Magnusson and Orfeas Moraitis.
+[Sculpting the behaviour of the Feedback-Actuated Augmented Bass](./assets/publications/faab.pdf). Documentation on a 2018 collaboration with Adam Pultz where we modify a double bass to do halldorophone-like feedback (but imporatantly with a lot of work by Adam on a DSP setup for the instrument).
 
-Sculpting the behaviour of the Feedback-Actuated Augmented Bass
+[2023 NIME paper on interface developments](./assets/papers/nime2023.pdf) with Thor Magnusson and Orfeas Moraitis.
 
 By others on related projects. Note this list limited to writings on feedbacking strings, for information on feedback instruments in general there is a good repository kept up to date by the [Feedback Musicianship Network.](https://feedback-musicianship.pubpub.org/)
 
@@ -25,6 +25,8 @@ A. Eldridge and C. Kiefer. The Self-resonating Feedback Cello: Interfacing gestu
 Adam Pultz
 
 Thanos Polymeneas
+
+Dan Overholt
 
 Labs and and networks I am a part of:
 
