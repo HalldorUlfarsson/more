@@ -1,0 +1,36 @@
+.slideshow {
+  position: relative;
+  width: 100%;
+  height: 500px;
+  overflow: hidden;
+}
+
+.slideshow .slides {
+  display: flex;
+  transition: transform 0.5s ease-in-out;
+}
+
+.slideshow .slides img {
+  width: 100%;
+  height: auto;
+}
+
+.slideshow .nav {
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  transform: translateY(-50%);
+}
+
+.slideshow .nav button {
+  background-color: rgba(255, 255, 255, 0.7);
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.slideshow .nav button:hover {
+  background-color: rgba(255, 255, 255, 1);
+}
